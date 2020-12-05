@@ -1,6 +1,6 @@
 # Shopping List
 
-[ ] Brood
-[ ] Boursin
-[ ] Lasagne
-[ ] Vlees
+- [ ] Brood
+- [ ] Boursin
+- [ ] Lasagne
+- [ ] Vlees
